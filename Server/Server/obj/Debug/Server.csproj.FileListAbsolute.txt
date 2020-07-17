@@ -1,0 +1,48 @@
+C:\Users\76621\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\76621\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\76621\source\repos\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\76621\source\repos\Server\Server\obj\Debug\MainWindow.g.cs
+C:\Users\76621\source\repos\Server\Server\obj\Debug\App.g.cs
+C:\Users\76621\source\repos\Server\Server\obj\Debug\Server_MarkupCompile.cache
+C:\Users\76621\source\repos\Server\Server\obj\Debug\Server_MarkupCompile.lref
+C:\Users\76621\source\repos\Server\Server\obj\Debug\MainWindow.baml
+C:\Users\76621\source\repos\Server\Server\obj\Debug\Server.g.resources
+C:\Users\76621\source\repos\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\76621\source\repos\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\76621\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\76621\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\76621\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\76621\source\repos\Server\Server\obj\Debug\State.g.cs
+C:\Users\76621\source\repos\Server\Server\obj\Debug\State.baml
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\bin\Debug\Server.exe
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\bin\Debug\Server.pdb
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\MainWindow.g.cs
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\State.g.cs
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\App.g.cs
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\Server_MarkupCompile.cache
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\Server_MarkupCompile.lref
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\MainWindow.baml
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\State.baml
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\Server.g.resources
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\Server.exe
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Debug\Server.pdb
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\bin\Debug\Server.exe
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\bin\Debug\Server.pdb
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\MainWindow.g.cs
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\State.g.cs
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\App.g.cs
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\Server_MarkupCompile.cache
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\Server_MarkupCompile.lref
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\MainWindow.baml
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\State.baml
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\Server.g.resources
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\Server.exe
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Debug\Server.pdb

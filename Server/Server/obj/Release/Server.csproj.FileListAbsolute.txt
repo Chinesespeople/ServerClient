@@ -1,0 +1,31 @@
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\bin\Release\Server.exe
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\bin\Release\Server.pdb
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\MainWindow.g.cs
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\State.g.cs
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\App.g.cs
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\Server_MarkupCompile.cache
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\Server_MarkupCompile.lref
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\MainWindow.baml
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\State.baml
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\Server.g.resources
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\Server.Properties.Resources.resources
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\Server.csproj.GenerateResource.cache
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\Server.exe
+D:\Users\76621\Documents\Tencent Files\766213970\FileRecv\Server\Server\obj\Release\Server.pdb
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\bin\Release\Server.exe
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\bin\Release\Server.pdb
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\Server.csprojAssemblyReference.cache
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\MainWindow.g.cs
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\State.g.cs
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\App.g.cs
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\Server_MarkupCompile.cache
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\Server_MarkupCompile.lref
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\MainWindow.baml
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\State.baml
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\Server.g.resources
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\Server.Properties.Resources.resources
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\Server.csproj.GenerateResource.cache
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\Server.exe
+D:\Users\76621\Desktop\客户端服务器\代码\Server\Server\obj\Release\Server.pdb
